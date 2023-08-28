@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353555396732",
+    "project_id": "cla-man",
+    "storage_bucket": "cla-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353555396732:android:67a088d01cf7dba63b31f9",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.class_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353555396732-30e8krv9av45oa1567rbcvj6r1efe1jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFC3Rvqv718bnTJtO9VSw0TFbdSgMOFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353555396732-30e8krv9av45oa1567rbcvj6r1efe1jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353555396732-2aks8cvl7eudoqbtv7i02iijk1d1j5ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.presents.classManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
